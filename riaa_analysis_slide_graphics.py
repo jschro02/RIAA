@@ -27,8 +27,8 @@ def calculate_cagr(beginning_value, ending_value, num_periods):
 
 
 # Open Files
-salesVolume_raw = pd.read_csv("Sales Volume Chart_Full Data_data.csv")
-revenueAdj_raw = pd.read_csv("Revenue Chart_Full Data_data_InflationAdjusted.csv")
+salesVolume_raw = pd.read_csv("./inputsSales Volume Chart_Full Data_data.csv")
+revenueAdj_raw = pd.read_csv("./inputsRevenue Chart_Full Data_data_InflationAdjusted.csv")
 
 # Simplify Sales Volume
 sales_cols = ['Year', 'Format', 'Value (Actual)']

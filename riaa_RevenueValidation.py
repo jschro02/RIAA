@@ -7,9 +7,9 @@ Explore the files to find out why.
 """
 
 # Open Files
-salesVolume_raw = pd.read_csv("Sales Volume Chart_Full Data_data.csv")
-revenue_raw = pd.read_csv("Revenue Chart_Full Data_data_raw.csv")
-revenueAdj_raw = pd.read_csv("Revenue Chart_Full Data_data_InflationAdjusted.csv")
+salesVolume_raw = pd.read_csv("./inputs/Sales Volume Chart_Full Data_data.csv")
+revenue_raw = pd.read_csv("./inputs/Revenue Chart_Full Data_data_raw.csv")
+revenueAdj_raw = pd.read_csv("./inputs/Revenue Chart_Full Data_data_InflationAdjusted.csv")
 
 
 
@@ -66,7 +66,7 @@ a = [delta_columns( revenue_raw, revenueAdj_raw, f) for f in fields]
 out = pd.concat(a)
 
 #write to excel, easier to view
-out.to_excel( "revenue_comparison.xlsx")
+out.to_excel( "/output/revenue_comparison.xlsx")
 
 #After review, these fields need further examination:
 out = out[ out['field'].isin(['Format', 'Metric', 'Year'])]
