@@ -1,0 +1,426 @@
+﻿Year of Year Date,Format,Format (copy),Metric,Value (Actual),Adjusted for Inflation Flag,Year,Year Date,% of Total Volume,Format Value # (Billion),Format Value # (Million),Total Value # (Billion),Total Value # (Million),Total Value For Year,Value (Actual) (copy),Year (copy)
+1983,CD,CD,Units,0.8,,1983,1983,0.1%,,$0.8M,,$572.0M,$572.0B,$1M,1983
+1984,CD,CD,Units,5.8,,1984,1984,0.9%,,$5.8M,,$673.9M,$673.9B,$6M,1984
+1985,CD,CD,Units,22.6,,1985,1985,3.5%,,$22.6M,,$649.4M,$649.4B,$23M,1985
+1986,CD,CD,Units,53,,1986,1986,8.6%,,$53.0M,,$616.6M,$616.6B,$53M,1986
+1987,CD,CD,Units,102.1,,1987,1987,14.5%,,$102.1M,,$706.2M,$706.2B,$102M,1987
+1988,CD,CD,Units,149.7,,1988,1988,19.6%,,$149.7M,,$761.9M,$761.9B,$150M,1988
+1989,CD,CD,Units,207.2,,1989,1989,25.7%,,$207.2M,,$806.8M,$806.8B,$207M,1989
+1990,CD,CD,Units,286.5,,1990,1990,33.1%,,$286.5M,,$865.7M,$865.7B,$287M,1990
+1991,CD,CD,Units,333.3,,1991,1991,41.6%,,$333.3M,,$801.0M,$801.0B,$333M,1991
+1992,CD,CD,Units,407.5,,1992,1992,45.5%,,$407.5M,,$895.5M,$895.5B,$408M,1992
+1993,CD,CD,Units,495.4,,1993,1993,51.8%,,$495.4M,,$955.6M,$955.6B,$495M,1993
+1994,CD,CD,Units,662.1,,1994,1994,59.0%,,$662.1M,1.1B,,$1122.7B,$662M,1994
+1995,CD,CD,Units,722.9,,1995,1995,65.0%,,$722.9M,1.1B,,$1112.7B,$723M,1995
+1996,CD,CD,Units,778.9,,1996,1996,68.5%,,$778.9M,1.1B,,$1137.2B,$779M,1996
+1997,CD,CD,Units,753.1,,1997,1997,70.8%,,$753.1M,1.1B,,$1063.4B,$753M,1997
+1998,CD,CD,Units,847,,1998,1998,75.4%,,$847.0M,1.1B,,$1123.9B,$847M,1998
+1999,CD,CD,Units,938.9,,1999,1999,80.9%,,$938.9M,1.2B,,$1160.6B,$939M,1999
+2000,CD,CD,Units,942.5,,2000,2000,87.3%,,$942.5M,1.1B,,$1079.2B,$943M,2000
+2001,CD,CD,Units,881.9,,2001,2001,91.1%,,$881.9M,,$968.5M,$968.5B,$882M,2001
+2002,CD,CD,Units,803.3,,2002,2002,93.4%,,$803.3M,,$859.7M,$859.7B,$803M,2002
+2003,CD,CD,Units,746,,2003,2003,93.4%,,$746.0M,,$798.4M,$798.4B,$746M,2003
+2004,CD,CD,Units,767,,2004,2004,80.1%,,$767.0M,,$958.1M,$958.1B,$767M,2004
+2005,CD,CD,Units,705.4,,2005,2005,54.2%,,$705.4M,1.3B,,$1301.9B,$705M,2005
+2006,CD,CD,Units,619.7,,2006,2006,39.0%,,$619.7M,1.6B,,$1588.4B,$620M,2006
+2007,CD,CD,Units,499.7,,2007,2007,27.0%,,$499.7M,1.9B,,$1851.5B,$500M,2007
+2008,CD,CD,Units,368.4,,2008,2008,19.2%,,$368.4M,1.9B,,$1919.6B,$368M,2008
+2009,CD,CD,Units,296.6,,2009,2009,16.2%,,$296.6M,1.8B,,$1828.5B,$297M,2009
+2010,CD,CD,Units,253,,2010,2010,14.5%,,$253.0M,1.7B,,$1739.5B,$253M,2010
+2011,CD,CD,Units,240.8,,2011,2011,13.2%,,$240.8M,1.8B,,$1825.0B,$241M,2011
+2012,CD,CD,Units,198.164387234,,2012,2012,11.0%,,$198.2M,1.8B,,$1803.3B,$198M,2012
+2013,CD,CD,Units,173.793302906,,2013,2013,10.3%,,$173.8M,1.7B,,$1691.2B,$174M,2013
+2014,CD,CD,Units,138.702363357,,2014,2014,9.5%,,$138.7M,1.5B,,$1458.2B,$139M,2014
+2015,CD,CD,Units,117.144051764,,2015,2015,9.3%,,$117.1M,1.3B,,$1255.5B,$117M,2015
+2016,CD,CD,Units,97.577071197,,2016,2016,10.1%,,$97.6M,,$970.1M,$970.1B,$98M,2016
+2017,CD,CD,Units,86.695372389,,2017,2017,11.9%,,$86.7M,,$730.9M,$730.9B,$87M,2017
+2018,CD,CD,Units,51.781960713,,2018,2018,9.7%,,$51.8M,,$531.2M,$531.2B,$52M,2018
+2019,CD,CD,Units,47.960408598,,2019,2019,10.8%,,$48.0M,,$442.4M,$442.4B,$48M,2019
+2020,CD,CD,Units,30.990884989,,2020,2020,8.7%,,$31.0M,,$356.0M,$356.0B,$31M,2020
+2021,CD,CD,Units,44.946287625,,2021,2021,13.1%,,$44.9M,,$342.0M,$342.0B,$45M,2021
+2022,CD,CD,Units,37.701479085,,2022,2022,13.4%,,$37.7M,,$282.1M,$282.1B,$38M,2022
+2023,CD,CD,Units,32.441244744,,2023,2023,12.9%,,$32.4M,,$252.4M,$252.4B,$32M,2023
+2024,CD,CD,Units,32.937028846,,2024,2024,15.0%,,$32.9M,,$219.9M,$219.9B,$33M,2024
+1988,CD Single,CD Single,Units,1.6,,1988,1988,0.2%,,$1.6M,,$761.9M,$761.9B,$2M,1988
+1989,CD Single,CD Single,Units,-0.1,,1989,1989,0.0%,,-$0.1M,,$806.8M,$806.8B,$0M,1989
+1990,CD Single,CD Single,Units,1.1,,1990,1990,0.1%,,$1.1M,,$865.7M,$865.7B,$1M,1990
+1991,CD Single,CD Single,Units,5.7,,1991,1991,0.7%,,$5.7M,,$801.0M,$801.0B,$6M,1991
+1992,CD Single,CD Single,Units,7.3,,1992,1992,0.8%,,$7.3M,,$895.5M,$895.5B,$7M,1992
+1993,CD Single,CD Single,Units,7.8,,1993,1993,0.8%,,$7.8M,,$955.6M,$955.6B,$8M,1993
+1994,CD Single,CD Single,Units,9.3,,1994,1994,0.8%,,$9.3M,1.1B,,$1122.7B,$9M,1994
+1995,CD Single,CD Single,Units,21.5,,1995,1995,1.9%,,$21.5M,1.1B,,$1112.7B,$22M,1995
+1996,CD Single,CD Single,Units,43.2,,1996,1996,3.8%,,$43.2M,1.1B,,$1137.2B,$43M,1996
+1997,CD Single,CD Single,Units,66.7,,1997,1997,6.3%,,$66.7M,1.1B,,$1063.4B,$67M,1997
+1998,CD Single,CD Single,Units,56,,1998,1998,5.0%,,$56.0M,1.1B,,$1123.9B,$56M,1998
+1999,CD Single,CD Single,Units,55.9,,1999,1999,4.8%,,$55.9M,1.2B,,$1160.6B,$56M,1999
+2000,CD Single,CD Single,Units,34.2,,2000,2000,3.2%,,$34.2M,1.1B,,$1079.2B,$34M,2000
+2001,CD Single,CD Single,Units,17.3,,2001,2001,1.8%,,$17.3M,,$968.5M,$968.5B,$17M,2001
+2002,CD Single,CD Single,Units,4.5,,2002,2002,0.5%,,$4.5M,,$859.7M,$859.7B,$5M,2002
+2003,CD Single,CD Single,Units,8.3,,2003,2003,1.0%,,$8.3M,,$798.4M,$798.4B,$8M,2003
+2004,CD Single,CD Single,Units,3.1,,2004,2004,0.3%,,$3.1M,,$958.1M,$958.1B,$3M,2004
+2005,CD Single,CD Single,Units,2.8,,2005,2005,0.2%,,$2.8M,1.3B,,$1301.9B,$3M,2005
+2006,CD Single,CD Single,Units,1.7,,2006,2006,0.1%,,$1.7M,1.6B,,$1588.4B,$2M,2006
+2007,CD Single,CD Single,Units,2.6,,2007,2007,0.1%,,$2.6M,1.9B,,$1851.5B,$3M,2007
+2008,CD Single,CD Single,Units,0.7,,2008,2008,0.0%,,$0.7M,1.9B,,$1919.6B,$1M,2008
+2009,CD Single,CD Single,Units,0.9,,2009,2009,0.0%,,$0.9M,1.8B,,$1828.5B,$1M,2009
+2010,CD Single,CD Single,Units,1,,2010,2010,0.1%,,$1.0M,1.7B,,$1739.5B,$1M,2010
+2011,CD Single,CD Single,Units,1.3,,2011,2011,0.1%,,$1.3M,1.8B,,$1825.0B,$1M,2011
+2012,CD Single,CD Single,Units,1.072870407,,2012,2012,0.1%,,$1.1M,1.8B,,$1803.3B,$1M,2012
+2013,CD Single,CD Single,Units,0.628895398,,2013,2013,0.0%,,$0.6M,1.7B,,$1691.2B,$1M,2013
+2014,CD Single,CD Single,Units,0.928725116,,2014,2014,0.1%,,$0.9M,1.5B,,$1458.2B,$1M,2014
+2015,CD Single,CD Single,Units,0.386721563,,2015,2015,0.0%,,$0.4M,1.3B,,$1255.5B,$0M,2015
+2016,CD Single,CD Single,Units,0.121745255,,2016,2016,0.0%,,$0.1M,,$970.1M,$970.1B,$0M,2016
+2017,CD Single,CD Single,Units,0.015918667,,2017,2017,0.0%,,$0.0,,$730.9M,$730.9B,$0M,2017
+2018,CD Single,CD Single,Units,0.002076,,2018,2018,0.0%,,$0.0,,$531.2M,$531.2B,$0M,2018
+2019,CD Single,CD Single,Units,0.009050667,,2019,2019,0.0%,,$0.0,,$442.4M,$442.4B,$0M,2019
+2020,CD Single,CD Single,Units,0.034233333,,2020,2020,0.0%,,$0.0,,$356.0M,$356.0B,$0M,2020
+2021,CD Single,CD Single,Units,0.01692,,2021,2021,0.0%,,$0.0,,$342.0M,$342.0B,$0M,2021
+2022,CD Single,CD Single,Units,0.396157333,,2022,2022,0.1%,,$0.4M,,$282.1M,$282.1B,$0M,2022
+1973,Cassette,Cassette,Units,15,,1973,1973,2.4%,,$15.0M,,$616.2M,$616.2B,$15M,1973
+1974,Cassette,Cassette,Units,15.3,,1974,1974,2.6%,,$15.3M,,$593.9M,$593.9B,$15M,1974
+1975,Cassette,Cassette,Units,16.2,,1975,1975,3.0%,,$16.2M,,$533.3M,$533.3B,$16M,1975
+1976,Cassette,Cassette,Units,21.8,,1976,1976,3.7%,,$21.8M,,$591.6M,$591.6B,$22M,1976
+1977,Cassette,Cassette,Units,36.9,,1977,1977,5.3%,,$36.9M,,$698.2M,$698.2B,$37M,1977
+1978,Cassette,Cassette,Units,61.3,,1978,1978,8.4%,,$61.3M,,$726.2M,$726.2B,$61M,1978
+1979,Cassette,Cassette,Units,78.5,,1979,1979,11.5%,,$78.5M,,$682.8M,$682.8B,$79M,1979
+1980,Cassette,Cassette,Units,99,,1980,1980,15.3%,,$99.0M,,$649.0M,$649.0B,$99M,1980
+1981,Cassette,Cassette,Units,124,,1981,1981,19.9%,,$124.0M,,$623.9M,$623.9B,$124M,1981
+1982,Cassette,Cassette,Units,183.2,,1982,1982,31.7%,,$183.2M,,$578.0M,$578.0B,$183M,1982
+1983,Cassette,Cassette,Units,236.8,,1983,1983,41.4%,,$236.8M,,$572.0M,$572.0B,$237M,1983
+1984,Cassette,Cassette,Units,332,,1984,1984,49.3%,,$332.0M,,$673.9M,$673.9B,$332M,1984
+1985,Cassette,Cassette,Units,339.1,,1985,1985,52.2%,,$339.1M,,$649.4M,$649.4B,$339M,1985
+1986,Cassette,Cassette,Units,344.5,,1986,1986,55.9%,,$344.5M,,$616.6M,$616.6B,$345M,1986
+1987,Cassette,Cassette,Units,410,,1987,1987,58.1%,,$410.0M,,$706.2M,$706.2B,$410M,1987
+1988,Cassette,Cassette,Units,450.1,,1988,1988,59.1%,,$450.1M,,$761.9M,$761.9B,$450M,1988
+1989,Cassette,Cassette,Units,446.2,,1989,1989,55.3%,,$446.2M,,$806.8M,$806.8B,$446M,1989
+1990,Cassette,Cassette,Units,442.2,,1990,1990,51.1%,,$442.2M,,$865.7M,$865.7B,$442M,1990
+1991,Cassette,Cassette,Units,360.1,,1991,1991,45.0%,,$360.1M,,$801.0M,$801.0B,$360M,1991
+1992,Cassette,Cassette,Units,366.4,,1992,1992,40.9%,,$366.4M,,$895.5M,$895.5B,$366M,1992
+1993,Cassette,Cassette,Units,339.5,,1993,1993,35.5%,,$339.5M,,$955.6M,$955.6B,$340M,1993
+1994,Cassette,Cassette,Units,345.4,,1994,1994,30.8%,,$345.4M,1.1B,,$1122.7B,$345M,1994
+1995,Cassette,Cassette,Units,272.6,,1995,1995,24.5%,,$272.6M,1.1B,,$1112.7B,$273M,1995
+1996,Cassette,Cassette,Units,225.3,,1996,1996,19.8%,,$225.3M,1.1B,,$1137.2B,$225M,1996
+1997,Cassette,Cassette,Units,172.6,,1997,1997,16.2%,,$172.6M,1.1B,,$1063.4B,$173M,1997
+1998,Cassette,Cassette,Units,158.5,,1998,1998,14.1%,,$158.5M,1.1B,,$1123.9B,$159M,1998
+1999,Cassette,Cassette,Units,123.6,,1999,1999,10.6%,,$123.6M,1.2B,,$1160.6B,$124M,1999
+2000,Cassette,Cassette,Units,76,,2000,2000,7.0%,,$76.0M,1.1B,,$1079.2B,$76M,2000
+2001,Cassette,Cassette,Units,45,,2001,2001,4.6%,,$45.0M,,$968.5M,$968.5B,$45M,2001
+2002,Cassette,Cassette,Units,31.1,,2002,2002,3.6%,,$31.1M,,$859.7M,$859.7B,$31M,2002
+2003,Cassette,Cassette,Units,17.2,,2003,2003,2.2%,,$17.2M,,$798.4M,$798.4B,$17M,2003
+2004,Cassette,Cassette,Units,5.2,,2004,2004,0.5%,,$5.2M,,$958.1M,$958.1B,$5M,2004
+2005,Cassette,Cassette,Units,2.5,,2005,2005,0.2%,,$2.5M,1.3B,,$1301.9B,$3M,2005
+2006,Cassette,Cassette,Units,0.7,,2006,2006,0.0%,,$0.7M,1.6B,,$1588.4B,$1M,2006
+2007,Cassette,Cassette,Units,0.4,,2007,2007,0.0%,,$0.4M,1.9B,,$1851.5B,$0M,2007
+2008,Cassette,Cassette,Units,0.1,,2008,2008,0.0%,,$0.1M,1.9B,,$1919.6B,$0M,2008
+1987,Cassette Single,Cassette Single,Units,5.1,,1987,1987,0.7%,,$5.1M,,$706.2M,$706.2B,$5M,1987
+1988,Cassette Single,Cassette Single,Units,22.5,,1988,1988,3.0%,,$22.5M,,$761.9M,$761.9B,$23M,1988
+1989,Cassette Single,Cassette Single,Units,76.2,,1989,1989,9.4%,,$76.2M,,$806.8M,$806.8B,$76M,1989
+1990,Cassette Single,Cassette Single,Units,87.4,,1990,1990,10.1%,,$87.4M,,$865.7M,$865.7B,$87M,1990
+1991,Cassette Single,Cassette Single,Units,69,,1991,1991,8.6%,,$69.0M,,$801.0M,$801.0B,$69M,1991
+1992,Cassette Single,Cassette Single,Units,84.6,,1992,1992,9.4%,,$84.6M,,$895.5M,$895.5B,$85M,1992
+1993,Cassette Single,Cassette Single,Units,85.6,,1993,1993,9.0%,,$85.6M,,$955.6M,$955.6B,$86M,1993
+1994,Cassette Single,Cassette Single,Units,81.1,,1994,1994,7.2%,,$81.1M,1.1B,,$1122.7B,$81M,1994
+1995,Cassette Single,Cassette Single,Units,70.7,,1995,1995,6.4%,,$70.7M,1.1B,,$1112.7B,$71M,1995
+1996,Cassette Single,Cassette Single,Units,59.9,,1996,1996,5.3%,,$59.9M,1.1B,,$1137.2B,$60M,1996
+1997,Cassette Single,Cassette Single,Units,42.2,,1997,1997,4.0%,,$42.2M,1.1B,,$1063.4B,$42M,1997
+1998,Cassette Single,Cassette Single,Units,26.4,,1998,1998,2.3%,,$26.4M,1.1B,,$1123.9B,$26M,1998
+1999,Cassette Single,Cassette Single,Units,14.2,,1999,1999,1.2%,,$14.2M,1.2B,,$1160.6B,$14M,1999
+2000,Cassette Single,Cassette Single,Units,1.3,,2000,2000,0.1%,,$1.3M,1.1B,,$1079.2B,$1M,2000
+2001,Cassette Single,Cassette Single,Units,-1.5,,2001,2001,-0.2%,,-$1.5M,,$968.5M,$968.5B,($2M),2001
+2002,Cassette Single,Cassette Single,Units,-0.5,,2002,2002,-0.1%,,-$0.5M,,$859.7M,$859.7B,($1M),2002
+1973,LP/EP,LP/EP,Units,280,,1973,1973,45.4%,,$280.0M,,$616.2M,$616.2B,$280M,1973
+1974,LP/EP,LP/EP,Units,276,,1974,1974,46.5%,,$276.0M,,$593.9M,$593.9B,$276M,1974
+1975,LP/EP,LP/EP,Units,257,,1975,1975,48.2%,,$257.0M,,$533.3M,$533.3B,$257M,1975
+1976,LP/EP,LP/EP,Units,273,,1976,1976,46.1%,,$273.0M,,$591.6M,$591.6B,$273M,1976
+1977,LP/EP,LP/EP,Units,344,,1977,1977,49.3%,,$344.0M,,$698.2M,$698.2B,$344M,1977
+1978,LP/EP,LP/EP,Units,341.3,,1978,1978,47.0%,,$341.3M,,$726.2M,$726.2B,$341M,1978
+1979,LP/EP,LP/EP,Units,290,,1979,1979,42.5%,,$290.0M,,$682.8M,$682.8B,$290M,1979
+1980,LP/EP,LP/EP,Units,308,,1980,1980,47.5%,,$308.0M,,$649.0M,$649.0B,$308M,1980
+1981,LP/EP,LP/EP,Units,295.2,,1981,1981,47.3%,,$295.2M,,$623.9M,$623.9B,$295M,1981
+1982,LP/EP,LP/EP,Units,243.9,,1982,1982,42.2%,,$243.9M,,$578.0M,$578.0B,$244M,1982
+1983,LP/EP,LP/EP,Units,209.6,,1983,1983,36.6%,,$209.6M,,$572.0M,$572.0B,$210M,1983
+1984,LP/EP,LP/EP,Units,204.6,,1984,1984,30.4%,,$204.6M,,$673.9M,$673.9B,$205M,1984
+1985,LP/EP,LP/EP,Units,167,,1985,1985,25.7%,,$167.0M,,$649.4M,$649.4B,$167M,1985
+1986,LP/EP,LP/EP,Units,125.2,,1986,1986,20.3%,,$125.2M,,$616.6M,$616.6B,$125M,1986
+1987,LP/EP,LP/EP,Units,107,,1987,1987,15.2%,,$107.0M,,$706.2M,$706.2B,$107M,1987
+1988,LP/EP,LP/EP,Units,72.4,,1988,1988,9.5%,,$72.4M,,$761.9M,$761.9B,$72M,1988
+1989,LP/EP,LP/EP,Units,34.6,,1989,1989,4.3%,,$34.6M,,$806.8M,$806.8B,$35M,1989
+1990,LP/EP,LP/EP,Units,11.7,,1990,1990,1.4%,,$11.7M,,$865.7M,$865.7B,$12M,1990
+1991,LP/EP,LP/EP,Units,4.8,,1991,1991,0.6%,,$4.8M,,$801.0M,$801.0B,$5M,1991
+1992,LP/EP,LP/EP,Units,2.3,,1992,1992,0.3%,,$2.3M,,$895.5M,$895.5B,$2M,1992
+1993,LP/EP,LP/EP,Units,1.2,,1993,1993,0.1%,,$1.2M,,$955.6M,$955.6B,$1M,1993
+1994,LP/EP,LP/EP,Units,1.9,,1994,1994,0.2%,,$1.9M,1.1B,,$1122.7B,$2M,1994
+1995,LP/EP,LP/EP,Units,2.2,,1995,1995,0.2%,,$2.2M,1.1B,,$1112.7B,$2M,1995
+1996,LP/EP,LP/EP,Units,2.9,,1996,1996,0.3%,,$2.9M,1.1B,,$1137.2B,$3M,1996
+1997,LP/EP,LP/EP,Units,2.7,,1997,1997,0.3%,,$2.7M,1.1B,,$1063.4B,$3M,1997
+1998,LP/EP,LP/EP,Units,3.4,,1998,1998,0.3%,,$3.4M,1.1B,,$1123.9B,$3M,1998
+1999,LP/EP,LP/EP,Units,2.9,,1999,1999,0.2%,,$2.9M,1.2B,,$1160.6B,$3M,1999
+2000,LP/EP,LP/EP,Units,2.2,,2000,2000,0.2%,,$2.2M,1.1B,,$1079.2B,$2M,2000
+2001,LP/EP,LP/EP,Units,2.3,,2001,2001,0.2%,,$2.3M,,$968.5M,$968.5B,$2M,2001
+2002,LP/EP,LP/EP,Units,1.743,,2002,2002,0.2%,,$1.7M,,$859.7M,$859.7B,$2M,2002
+2003,LP/EP,LP/EP,Units,1.5,,2003,2003,0.2%,,$1.5M,,$798.4M,$798.4B,$2M,2003
+2004,LP/EP,LP/EP,Units,1.4,,2004,2004,0.1%,,$1.4M,,$958.1M,$958.1B,$1M,2004
+2005,LP/EP,LP/EP,Units,1,,2005,2005,0.1%,,$1.0M,1.3B,,$1301.9B,$1M,2005
+2006,LP/EP,LP/EP,Units,0.9,,2006,2006,0.1%,,$0.9M,1.6B,,$1588.4B,$1M,2006
+2007,LP/EP,LP/EP,Units,1.3,,2007,2007,0.1%,,$1.3M,1.9B,,$1851.5B,$1M,2007
+2008,LP/EP,LP/EP,Units,2.9,,2008,2008,0.2%,,$2.9M,1.9B,,$1919.6B,$3M,2008
+2009,LP/EP,LP/EP,Units,3.5,,2009,2009,0.2%,,$3.5M,1.8B,,$1828.5B,$4M,2009
+2010,LP/EP,LP/EP,Units,4.2,,2010,2010,0.2%,,$4.2M,1.7B,,$1739.5B,$4M,2010
+2011,LP/EP,LP/EP,Units,5.5,,2011,2011,0.3%,,$5.5M,1.8B,,$1825.0B,$6M,2011
+2012,LP/EP,LP/EP,Units,6.915365189,,2012,2012,0.4%,,$6.9M,1.8B,,$1803.3B,$7M,2012
+2013,LP/EP,LP/EP,Units,9.351285870,,2013,2013,0.6%,,$9.4M,1.7B,,$1691.2B,$9M,2013
+2014,LP/EP,LP/EP,Units,10.315563906,,2014,2014,0.7%,,$10.3M,1.5B,,$1458.2B,$10M,2014
+2015,LP/EP,LP/EP,Units,13.681029720,,2015,2015,1.1%,,$13.7M,1.3B,,$1255.5B,$14M,2015
+2016,LP/EP,LP/EP,Units,14.770886026,,2016,2016,1.5%,,$14.8M,,$970.1M,$970.1B,$15M,2016
+2017,LP/EP,LP/EP,Units,15.556089168,,2017,2017,2.1%,,$15.6M,,$730.9M,$730.9B,$16M,2017
+2018,LP/EP,LP/EP,Units,16.670127326,,2018,2018,3.1%,,$16.7M,,$531.2M,$531.2B,$17M,2018
+2019,LP/EP,LP/EP,Units,19.805784999,,2019,2019,4.5%,,$19.8M,,$442.4M,$442.4B,$20M,2019
+2020,LP/EP,LP/EP,Units,25.581562948,,2020,2020,7.2%,,$25.6M,,$356.0M,$356.0B,$26M,2020
+2021,LP/EP,LP/EP,Units,36.744163465,,2021,2021,10.7%,,$36.7M,,$342.0M,$342.0B,$37M,2021
+2022,LP/EP,LP/EP,Units,40.544984721,,2022,2022,14.4%,,$40.5M,,$282.1M,$282.1B,$41M,2022
+2023,LP/EP,LP/EP,Units,43.217545981,,2023,2023,17.1%,,$43.2M,,$252.4M,$252.4B,$43M,2023
+2024,LP/EP,LP/EP,Units,43.634936840,,2024,2024,19.8%,,$43.6M,,$219.9M,$219.9B,$44M,2024
+1973,Vinyl Single,Vinyl Single,Units,228,,1973,1973,37.0%,,$228.0M,,$616.2M,$616.2B,$228M,1973
+1974,Vinyl Single,Vinyl Single,Units,204,,1974,1974,34.3%,,$204.0M,,$593.9M,$593.9B,$204M,1974
+1975,Vinyl Single,Vinyl Single,Units,164,,1975,1975,30.8%,,$164.0M,,$533.3M,$533.3B,$164M,1975
+1976,Vinyl Single,Vinyl Single,Units,190,,1976,1976,32.1%,,$190.0M,,$591.6M,$591.6B,$190M,1976
+1977,Vinyl Single,Vinyl Single,Units,190,,1977,1977,27.2%,,$190.0M,,$698.2M,$698.2B,$190M,1977
+1978,Vinyl Single,Vinyl Single,Units,190,,1978,1978,26.2%,,$190.0M,,$726.2M,$726.2B,$190M,1978
+1979,Vinyl Single,Vinyl Single,Units,212,,1979,1979,31.0%,,$212.0M,,$682.8M,$682.8B,$212M,1979
+1980,Vinyl Single,Vinyl Single,Units,157,,1980,1980,24.2%,,$157.0M,,$649.0M,$649.0B,$157M,1980
+1981,Vinyl Single,Vinyl Single,Units,154.7,,1981,1981,24.8%,,$154.7M,,$623.9M,$623.9B,$155M,1981
+1982,Vinyl Single,Vinyl Single,Units,137.2,,1982,1982,23.7%,,$137.2M,,$578.0M,$578.0B,$137M,1982
+1983,Vinyl Single,Vinyl Single,Units,124.8,,1983,1983,21.8%,,$124.8M,,$572.0M,$572.0B,$125M,1983
+1984,Vinyl Single,Vinyl Single,Units,131.5,,1984,1984,19.5%,,$131.5M,,$673.9M,$673.9B,$132M,1984
+1985,Vinyl Single,Vinyl Single,Units,120.7,,1985,1985,18.6%,,$120.7M,,$649.4M,$649.4B,$121M,1985
+1986,Vinyl Single,Vinyl Single,Units,93.9,,1986,1986,15.2%,,$93.9M,,$616.6M,$616.6B,$94M,1986
+1987,Vinyl Single,Vinyl Single,Units,82,,1987,1987,11.6%,,$82.0M,,$706.2M,$706.2B,$82M,1987
+1988,Vinyl Single,Vinyl Single,Units,65.6,,1988,1988,8.6%,,$65.6M,,$761.9M,$761.9B,$66M,1988
+1989,Vinyl Single,Vinyl Single,Units,36.6,,1989,1989,4.5%,,$36.6M,,$806.8M,$806.8B,$37M,1989
+1990,Vinyl Single,Vinyl Single,Units,27.6,,1990,1990,3.2%,,$27.6M,,$865.7M,$865.7B,$28M,1990
+1991,Vinyl Single,Vinyl Single,Units,22,,1991,1991,2.7%,,$22.0M,,$801.0M,$801.0B,$22M,1991
+1992,Vinyl Single,Vinyl Single,Units,19.8,,1992,1992,2.2%,,$19.8M,,$895.5M,$895.5B,$20M,1992
+1993,Vinyl Single,Vinyl Single,Units,15.1,,1993,1993,1.6%,,$15.1M,,$955.6M,$955.6B,$15M,1993
+1994,Vinyl Single,Vinyl Single,Units,11.7,,1994,1994,1.0%,,$11.7M,1.1B,,$1122.7B,$12M,1994
+1995,Vinyl Single,Vinyl Single,Units,10.2,,1995,1995,0.9%,,$10.2M,1.1B,,$1112.7B,$10M,1995
+1996,Vinyl Single,Vinyl Single,Units,10.1,,1996,1996,0.9%,,$10.1M,1.1B,,$1137.2B,$10M,1996
+1997,Vinyl Single,Vinyl Single,Units,7.5,,1997,1997,0.7%,,$7.5M,1.1B,,$1063.4B,$8M,1997
+1998,Vinyl Single,Vinyl Single,Units,5.4,,1998,1998,0.5%,,$5.4M,1.1B,,$1123.9B,$5M,1998
+1999,Vinyl Single,Vinyl Single,Units,5.3,,1999,1999,0.5%,,$5.3M,1.2B,,$1160.6B,$5M,1999
+2000,Vinyl Single,Vinyl Single,Units,4.8,,2000,2000,0.4%,,$4.8M,1.1B,,$1079.2B,$5M,2000
+2001,Vinyl Single,Vinyl Single,Units,5.5,,2001,2001,0.6%,,$5.5M,,$968.5M,$968.5B,$6M,2001
+2002,Vinyl Single,Vinyl Single,Units,4.4,,2002,2002,0.5%,,$4.4M,,$859.7M,$859.7B,$4M,2002
+2003,Vinyl Single,Vinyl Single,Units,3.8,,2003,2003,0.5%,,$3.8M,,$798.4M,$798.4B,$4M,2003
+2004,Vinyl Single,Vinyl Single,Units,3.5,,2004,2004,0.4%,,$3.5M,,$958.1M,$958.1B,$4M,2004
+2005,Vinyl Single,Vinyl Single,Units,2.3,,2005,2005,0.2%,,$2.3M,1.3B,,$1301.9B,$2M,2005
+2006,Vinyl Single,Vinyl Single,Units,1.5,,2006,2006,0.1%,,$1.5M,1.6B,,$1588.4B,$2M,2006
+2007,Vinyl Single,Vinyl Single,Units,0.6,,2007,2007,0.0%,,$0.6M,1.9B,,$1851.5B,$1M,2007
+2008,Vinyl Single,Vinyl Single,Units,0.4,,2008,2008,0.0%,,$0.4M,1.9B,,$1919.6B,$0M,2008
+2009,Vinyl Single,Vinyl Single,Units,0.3,,2009,2009,0.0%,,$0.3M,1.8B,,$1828.5B,$0M,2009
+2010,Vinyl Single,Vinyl Single,Units,0.3,,2010,2010,0.0%,,$0.3M,1.7B,,$1739.5B,$0M,2010
+2011,Vinyl Single,Vinyl Single,Units,0.4,,2011,2011,0.0%,,$0.4M,1.8B,,$1825.0B,$0M,2011
+2012,Vinyl Single,Vinyl Single,Units,0.388573687,,2012,2012,0.0%,,$0.4M,1.8B,,$1803.3B,$0M,2012
+2013,Vinyl Single,Vinyl Single,Units,0.315817054,,2013,2013,0.0%,,$0.3M,1.7B,,$1691.2B,$0M,2013
+2014,Vinyl Single,Vinyl Single,Units,0.481198278,,2014,2014,0.0%,,$0.5M,1.5B,,$1458.2B,$0M,2014
+2015,Vinyl Single,Vinyl Single,Units,0.507869910,,2015,2015,0.0%,,$0.5M,1.3B,,$1255.5B,$1M,2015
+2016,Vinyl Single,Vinyl Single,Units,0.404330651,,2016,2016,0.0%,,$0.4M,,$970.1M,$970.1B,$0M,2016
+2017,Vinyl Single,Vinyl Single,Units,0.402959365,,2017,2017,0.1%,,$0.4M,,$730.9M,$730.9B,$0M,2017
+2018,Vinyl Single,Vinyl Single,Units,0.367995333,,2018,2018,0.1%,,$0.4M,,$531.2M,$531.2B,$0M,2018
+2019,Vinyl Single,Vinyl Single,Units,0.332678333,,2019,2019,0.1%,,$0.3M,,$442.4M,$442.4B,$0M,2019
+2020,Vinyl Single,Vinyl Single,Units,0.383001333,,2020,2020,0.1%,,$0.4M,,$356.0M,$356.0B,$0M,2020
+2021,Vinyl Single,Vinyl Single,Units,0.478721471,,2021,2021,0.1%,,$0.5M,,$342.0M,$342.0B,$0M,2021
+2022,Vinyl Single,Vinyl Single,Units,0.320800333,,2022,2022,0.1%,,$0.3M,,$282.1M,$282.1B,$0M,2022
+2023,Vinyl Single,Vinyl Single,Units,0.394688235,,2023,2023,0.2%,,$0.4M,,$252.4M,$252.4B,$0M,2023
+2024,Vinyl Single,Vinyl Single,Units,0.543707,,2024,2024,0.2%,,$0.5M,,$219.9M,$219.9B,$1M,2024
+1973,8 - Track,8 - Track,Units,91,,1973,1973,14.8%,,$91.0M,,$616.2M,$616.2B,$91M,1973
+1974,8 - Track,8 - Track,Units,96.7,,1974,1974,16.3%,,$96.7M,,$593.9M,$593.9B,$97M,1974
+1975,8 - Track,8 - Track,Units,94.6,,1975,1975,17.7%,,$94.6M,,$533.3M,$533.3B,$95M,1975
+1976,8 - Track,8 - Track,Units,106.1,,1976,1976,17.9%,,$106.1M,,$591.6M,$591.6B,$106M,1976
+1977,8 - Track,8 - Track,Units,127.3,,1977,1977,18.2%,,$127.3M,,$698.2M,$698.2B,$127M,1977
+1978,8 - Track,8 - Track,Units,133.6,,1978,1978,18.4%,,$133.6M,,$726.2M,$726.2B,$134M,1978
+1979,8 - Track,8 - Track,Units,102.3,,1979,1979,15.0%,,$102.3M,,$682.8M,$682.8B,$102M,1979
+1980,8 - Track,8 - Track,Units,85,,1980,1980,13.1%,,$85.0M,,$649.0M,$649.0B,$85M,1980
+1981,8 - Track,8 - Track,Units,50,,1981,1981,8.0%,,$50.0M,,$623.9M,$623.9B,$50M,1981
+1982,8 - Track,8 - Track,Units,13.7,,1982,1982,2.4%,,$13.7M,,$578.0M,$578.0B,$14M,1982
+1973,Other Tapes,Other Tapes,Units,2.2,,1973,1973,0.4%,,$2.2M,,$616.2M,$616.2B,$2M,1973
+1974,Other Tapes,Other Tapes,Units,1.9,,1974,1974,0.3%,,$1.9M,,$593.9M,$593.9B,$2M,1974
+1975,Other Tapes,Other Tapes,Units,1.5,,1975,1975,0.3%,,$1.5M,,$533.3M,$533.3B,$2M,1975
+1976,Other Tapes,Other Tapes,Units,0.7,,1976,1976,0.1%,,$0.7M,,$591.6M,$591.6B,$1M,1976
+1989,Music Video (Physical),Music Video (Physical),Units,6.1,,1989,1989,0.8%,,$6.1M,,$806.8M,$806.8B,$6M,1989
+1990,Music Video (Physical),Music Video (Physical),Units,9.2,,1990,1990,1.1%,,$9.2M,,$865.7M,$865.7B,$9M,1990
+1991,Music Video (Physical),Music Video (Physical),Units,6.1,,1991,1991,0.8%,,$6.1M,,$801.0M,$801.0B,$6M,1991
+1992,Music Video (Physical),Music Video (Physical),Units,7.6,,1992,1992,0.8%,,$7.6M,,$895.5M,$895.5B,$8M,1992
+1993,Music Video (Physical),Music Video (Physical),Units,11,,1993,1993,1.2%,,$11.0M,,$955.6M,$955.6B,$11M,1993
+1994,Music Video (Physical),Music Video (Physical),Units,11.2,,1994,1994,1.0%,,$11.2M,1.1B,,$1122.7B,$11M,1994
+1995,Music Video (Physical),Music Video (Physical),Units,12.6,,1995,1995,1.1%,,$12.6M,1.1B,,$1112.7B,$13M,1995
+1996,Music Video (Physical),Music Video (Physical),Units,16.9,,1996,1996,1.5%,,$16.9M,1.1B,,$1137.2B,$17M,1996
+1997,Music Video (Physical),Music Video (Physical),Units,18.6,,1997,1997,1.7%,,$18.6M,1.1B,,$1063.4B,$19M,1997
+1998,Music Video (Physical),Music Video (Physical),Units,27.2,,1998,1998,2.4%,,$27.2M,1.1B,,$1123.9B,$27M,1998
+1999,Music Video (Physical),Music Video (Physical),Units,19.8,,1999,1999,1.7%,,$19.8M,1.2B,,$1160.6B,$20M,1999
+2000,Music Video (Physical),Music Video (Physical),Units,18.2,,2000,2000,1.7%,,$18.2M,1.1B,,$1079.2B,$18M,2000
+2001,Music Video (Physical),Music Video (Physical),Units,17.7,,2001,2001,1.8%,,$17.7M,,$968.5M,$968.5B,$18M,2001
+2002,Music Video (Physical),Music Video (Physical),Units,14.7,,2002,2002,1.7%,,$14.7M,,$859.7M,$859.7B,$15M,2002
+2003,Music Video (Physical),Music Video (Physical),Units,19.9,,2003,2003,2.5%,,$19.9M,,$798.4M,$798.4B,$20M,2003
+2004,Music Video (Physical),Music Video (Physical),Units,32.8,,2004,2004,3.4%,,$32.8M,,$958.1M,$958.1B,$33M,2004
+2005,Music Video (Physical),Music Video (Physical),Units,33.8,,2005,2005,2.6%,,$33.8M,1.3B,,$1301.9B,$34M,2005
+2006,Music Video (Physical),Music Video (Physical),Units,23.2,,2006,2006,1.5%,,$23.2M,1.6B,,$1588.4B,$23M,2006
+2007,Music Video (Physical),Music Video (Physical),Units,27.5,,2007,2007,1.5%,,$27.5M,1.9B,,$1851.5B,$28M,2007
+2008,Music Video (Physical),Music Video (Physical),Units,13.2,,2008,2008,0.7%,,$13.2M,1.9B,,$1919.6B,$13M,2008
+2009,Music Video (Physical),Music Video (Physical),Units,11.6,,2009,2009,0.6%,,$11.6M,1.8B,,$1828.5B,$12M,2009
+2010,Music Video (Physical),Music Video (Physical),Units,9.1,,2010,2010,0.5%,,$9.1M,1.7B,,$1739.5B,$9M,2010
+2011,Music Video (Physical),Music Video (Physical),Units,7.7,,2011,2011,0.4%,,$7.7M,1.8B,,$1825.0B,$8M,2011
+2012,Music Video (Physical),Music Video (Physical),Units,6.032725467,,2012,2012,0.3%,,$6.0M,1.8B,,$1803.3B,$6M,2012
+2013,Music Video (Physical),Music Video (Physical),Units,4.814626524,,2013,2013,0.3%,,$4.8M,1.7B,,$1691.2B,$5M,2013
+2014,Music Video (Physical),Music Video (Physical),Units,4.065323601,,2014,2014,0.3%,,$4.1M,1.5B,,$1458.2B,$4M,2014
+2015,Music Video (Physical),Music Video (Physical),Units,3.133228006,,2015,2015,0.2%,,$3.1M,1.3B,,$1255.5B,$3M,2015
+2016,Music Video (Physical),Music Video (Physical),Units,2.495531725,,2016,2016,0.3%,,$2.5M,,$970.1M,$970.1B,$2M,2016
+2017,Music Video (Physical),Music Video (Physical),Units,1.824937790,,2017,2017,0.2%,,$1.8M,,$730.9M,$730.9B,$2M,2017
+2018,Music Video (Physical),Music Video (Physical),Units,1.436713467,,2018,2018,0.3%,,$1.4M,,$531.2M,$531.2B,$1M,2018
+2019,Music Video (Physical),Music Video (Physical),Units,1.296883934,,2019,2019,0.3%,,$1.3M,,$442.4M,$442.4B,$1M,2019
+2020,Music Video (Physical),Music Video (Physical),Units,1.000631276,,2020,2020,0.3%,,$1.0M,,$356.0M,$356.0B,$1M,2020
+2021,Music Video (Physical),Music Video (Physical),Units,1.311435333,,2021,2021,0.4%,,$1.3M,,$342.0M,$342.0B,$1M,2021
+2022,Music Video (Physical),Music Video (Physical),Units,0.829852,,2022,2022,0.3%,,$0.8M,,$282.1M,$282.1B,$1M,2022
+2023,Music Video (Physical),Music Video (Physical),Units,0.612852,,2023,2023,0.2%,,$0.6M,,$252.4M,$252.4B,$1M,2023
+2024,Music Video (Physical),Music Video (Physical),Units,0.413429333,,2024,2024,0.2%,,$0.4M,,$219.9M,$219.9B,$0M,2024
+2001,DVD Audio,DVD Audio,Units,0.263,,2001,2001,0.0%,,$0.3M,,$968.5M,$968.5B,$0M,2001
+2002,DVD Audio,DVD Audio,Units,0.43,,2002,2002,0.1%,,$0.4M,,$859.7M,$859.7B,$0M,2002
+2003,DVD Audio,DVD Audio,Units,0.4,,2003,2003,0.1%,,$0.4M,,$798.4M,$798.4B,$0M,2003
+2004,DVD Audio,DVD Audio,Units,0.3,,2004,2004,0.0%,,$0.3M,,$958.1M,$958.1B,$0M,2004
+2005,DVD Audio,DVD Audio,Units,0.5,,2005,2005,0.0%,,$0.5M,1.3B,,$1301.9B,$1M,2005
+2006,DVD Audio,DVD Audio,Units,0.1,,2006,2006,0.0%,,$0.1M,1.6B,,$1588.4B,$0M,2006
+2007,DVD Audio,DVD Audio,Units,0.2,,2007,2007,0.0%,,$0.2M,1.9B,,$1851.5B,$0M,2007
+2008,DVD Audio,DVD Audio,Units,0.04,,2008,2008,0.0%,,$0.0,1.9B,,$1919.6B,$0M,2008
+2009,DVD Audio,DVD Audio,Units,0.1,,2009,2009,0.0%,,$0.1M,1.8B,,$1828.5B,$0M,2009
+2010,DVD Audio,DVD Audio,Units,0.04,,2010,2010,0.0%,,$0.0,1.7B,,$1739.5B,$0M,2010
+2011,DVD Audio,DVD Audio,Units,0.01,,2011,2011,0.0%,,$0.0,1.8B,,$1825.0B,$0M,2011
+2012,DVD Audio,DVD Audio,Units,0.008533145,,2012,2012,0.0%,,$0.0,1.8B,,$1803.3B,$0M,2012
+2013,DVD Audio,DVD Audio,Units,-0.054735168,,2013,2013,0.0%,,-$0.1M,1.7B,,$1691.2B,$0M,2013
+2014,DVD Audio,DVD Audio,Units,0.066542722,,2014,2014,0.0%,,$0.1M,1.5B,,$1458.2B,$0M,2014
+2015,DVD Audio,DVD Audio,Units,0.179506738,,2015,2015,0.0%,,$0.2M,1.3B,,$1255.5B,$0M,2015
+2016,DVD Audio,DVD Audio,Units,0.085898932,,2016,2016,0.0%,,$0.1M,,$970.1M,$970.1B,$0M,2016
+2017,DVD Audio,DVD Audio,Units,0.007266,,2017,2017,0.0%,,$0.0,,$730.9M,$730.9B,$0M,2017
+2018,DVD Audio,DVD Audio,Units,0.0092,,2018,2018,0.0%,,$0.0,,$531.2M,$531.2B,$0M,2018
+2019,DVD Audio,DVD Audio,Units,0.053336,,2019,2019,0.0%,,$0.1M,,$442.4M,$442.4B,$0M,2019
+2020,DVD Audio,DVD Audio,Units,0.083246,,2020,2020,0.0%,,$0.1M,,$356.0M,$356.0B,$0M,2020
+2021,DVD Audio,DVD Audio,Units,0.289925457,,2021,2021,0.1%,,$0.3M,,$342.0M,$342.0B,$0M,2021
+2022,DVD Audio,DVD Audio,Units,0.002376,,2022,2022,0.0%,,$0.0,,$282.1M,$282.1B,$0M,2022
+2003,SACD,SACD,Units,1.3,,2003,2003,0.2%,,$1.3M,,$798.4M,$798.4B,$1M,2003
+2004,SACD,SACD,Units,0.8,,2004,2004,0.1%,,$0.8M,,$958.1M,$958.1B,$1M,2004
+2005,SACD,SACD,Units,0.5,,2005,2005,0.0%,,$0.5M,1.3B,,$1301.9B,$1M,2005
+2006,SACD,SACD,Units,0.3,,2006,2006,0.0%,,$0.3M,1.6B,,$1588.4B,$0M,2006
+2007,SACD,SACD,Units,0.2,,2007,2007,0.0%,,$0.2M,1.9B,,$1851.5B,$0M,2007
+2008,SACD,SACD,Units,0.1,,2008,2008,0.0%,,$0.1M,1.9B,,$1919.6B,$0M,2008
+2009,SACD,SACD,Units,0.1,,2009,2009,0.0%,,$0.1M,1.8B,,$1828.5B,$0M,2009
+2010,SACD,SACD,Units,0.1,,2010,2010,0.0%,,$0.1M,1.7B,,$1739.5B,$0M,2010
+2011,SACD,SACD,Units,0.1,,2011,2011,0.0%,,$0.1M,1.8B,,$1825.0B,$0M,2011
+2012,SACD,SACD,Units,0.065446,,2012,2012,0.0%,,$0.1M,1.8B,,$1803.3B,$0M,2012
+2013,SACD,SACD,Units,0.044683,,2013,2013,0.0%,,$0.0,1.7B,,$1691.2B,$0M,2013
+2014,SACD,SACD,Units,0.030486,,2014,2014,0.0%,,$0.0,1.5B,,$1458.2B,$0M,2014
+2015,SACD,SACD,Units,0.041633,,2015,2015,0.0%,,$0.0,1.3B,,$1255.5B,$0M,2015
+2016,SACD,SACD,Units,0.045272,,2016,2016,0.0%,,$0.0,,$970.1M,$970.1B,$0M,2016
+2017,SACD,SACD,Units,0.032749,,2017,2017,0.0%,,$0.0,,$730.9M,$730.9B,$0M,2017
+2018,SACD,SACD,Units,0.032804,,2018,2018,0.0%,,$0.0,,$531.2M,$531.2B,$0M,2018
+2019,SACD,SACD,Units,0.017654,,2019,2019,0.0%,,$0.0,,$442.4M,$442.4B,$0M,2019
+2020,SACD,SACD,Units,0.011387,,2020,2020,0.0%,,$0.0,,$356.0M,$356.0B,$0M,2020
+2021,SACD,SACD,Units,0.010251,,2021,2021,0.0%,,$0.0,,$342.0M,$342.0B,$0M,2021
+2022,SACD,SACD,Units,0.009733,,2022,2022,0.0%,,$0.0,,$282.1M,$282.1B,$0M,2022
+2023,Other Physical,Other Physical,Units,0.459436,,2023,2023,0.2%,,$0.5M,,$252.4M,$252.4B,$0M,2023
+2024,Other Physical,Other Physical,Units,1.207606667,,2024,2024,0.5%,,$1.2M,,$219.9M,$219.9B,$1M,2024
+2004,Download Single,Download Single,Units,139.4,,2004,2004,14.5%,,$139.4M,,$958.1M,$958.1B,$139M,2004
+2005,Download Single,Download Single,Units,366.9,,2005,2005,28.2%,,$366.9M,1.3B,,$1301.9B,$367M,2005
+2006,Download Single,Download Single,Units,586.4,,2006,2006,36.9%,,$586.4M,1.6B,,$1588.4B,$586M,2006
+2007,Download Single,Download Single,Units,819.4,,2007,2007,44.3%,,$819.4M,1.9B,,$1851.5B,$819M,2007
+2008,Download Single,Download Single,Units,1042.7,,2008,2008,54.3%,$1.0B,,1.9B,,$1919.6B,"$1,043M",2008
+2009,Download Single,Download Single,Units,1124.4,,2009,2009,61.5%,$1.1B,,1.8B,,$1828.5B,"$1,124M",2009
+2010,Download Single,Download Single,Units,1177.4,,2010,2010,67.7%,$1.2B,,1.7B,,$1739.5B,"$1,177M",2010
+2011,Download Single,Download Single,Units,1332.3,,2011,2011,73.0%,$1.3B,,1.8B,,$1825.0B,"$1,332M",2011
+2012,Download Single,Download Single,Units,1402.739373351,,2012,2012,77.8%,$1.4B,,1.8B,,$1803.3B,"$1,403M",2012
+2013,Download Single,Download Single,Units,1332.795365733,,2013,2013,78.8%,$1.3B,,1.7B,,$1691.2B,"$1,333M",2013
+2014,Download Single,Download Single,Units,1154.379326870,,2014,2014,79.2%,$1.2B,,1.5B,,$1458.2B,"$1,154M",2014
+2015,Download Single,Download Single,Units,986.255035900,,2015,2015,78.6%,,$986.3M,1.3B,,$1255.5B,$986M,2015
+2016,Download Single,Download Single,Units,743.003413783,,2016,2016,76.6%,,$743.0M,,$970.1M,$970.1B,$743M,2016
+2017,Download Single,Download Single,Units,544.829120593,,2017,2017,74.5%,,$544.8M,,$730.9M,$730.9B,$545M,2017
+2018,Download Single,Download Single,Units,399.313889582,,2018,2018,75.2%,,$399.3M,,$531.2M,$531.2B,$399M,2018
+2019,Download Single,Download Single,Units,325.309656850,,2019,2019,73.5%,,$325.3M,,$442.4M,$442.4B,$325M,2019
+2020,Download Single,Download Single,Units,255.158662015,,2020,2020,71.7%,,$255.2M,,$356.0M,$356.0B,$255M,2020
+2021,Download Single,Download Single,Units,219.399814454,,2021,2021,64.1%,,$219.4M,,$342.0M,$342.0B,$219M,2021
+2022,Download Single,Download Single,Units,172.461747316,,2022,2022,61.1%,,$172.5M,,$282.1M,$282.1B,$172M,2022
+2023,Download Single,Download Single,Units,150.667660281,,2023,2023,59.7%,,$150.7M,,$252.4M,$252.4B,$151M,2023
+2024,Download Single,Download Single,Units,122.082110576,,2024,2024,55.5%,,$122.1M,,$219.9M,$219.9B,$122M,2024
+2004,Download Album,Download Album,Units,4.6,,2004,2004,0.5%,,$4.6M,,$958.1M,$958.1B,$5M,2004
+2005,Download Album,Download Album,Units,13.6,,2005,2005,1.0%,,$13.6M,1.3B,,$1301.9B,$14M,2005
+2006,Download Album,Download Album,Units,27.6,,2006,2006,1.7%,,$27.6M,1.6B,,$1588.4B,$28M,2006
+2007,Download Album,Download Album,Units,49.8,,2007,2007,2.7%,,$49.8M,1.9B,,$1851.5B,$50M,2007
+2008,Download Album,Download Album,Units,63.6,,2008,2008,3.3%,,$63.6M,1.9B,,$1919.6B,$64M,2008
+2009,Download Album,Download Album,Units,74.5,,2009,2009,4.1%,,$74.5M,1.8B,,$1828.5B,$75M,2009
+2010,Download Album,Download Album,Units,85.8,,2010,2010,4.9%,,$85.8M,1.7B,,$1739.5B,$86M,2010
+2011,Download Album,Download Album,Units,103.9,,2011,2011,5.7%,,$103.9M,1.8B,,$1825.0B,$104M,2011
+2012,Download Album,Download Album,Units,116.733631841,,2012,2012,6.5%,,$116.7M,1.8B,,$1803.3B,$117M,2012
+2013,Download Album,Download Album,Units,117.979213042,,2013,2013,7.0%,,$118.0M,1.7B,,$1691.2B,$118M,2013
+2014,Download Album,Download Album,Units,114.230470801,,2014,2014,7.8%,,$114.2M,1.5B,,$1458.2B,$114M,2014
+2015,Download Album,Download Album,Units,106.783884116,,2015,2015,8.5%,,$106.8M,1.3B,,$1255.5B,$107M,2015
+2016,Download Album,Download Album,Units,85.123349893,,2016,2016,8.8%,,$85.1M,,$970.1M,$970.1B,$85M,2016
+2017,Download Album,Download Album,Units,64.523437323,,2017,2017,8.8%,,$64.5M,,$730.9M,$730.9B,$65M,2017
+2018,Download Album,Download Album,Units,49.297698211,,2018,2018,9.3%,,$49.3M,,$531.2M,$531.2B,$49M,2018
+2019,Download Album,Download Album,Units,37.462013819,,2019,2019,8.5%,,$37.5M,,$442.4M,$442.4B,$37M,2019
+2020,Download Album,Download Album,Units,33.070586334,,2020,2020,9.3%,,$33.1M,,$356.0M,$356.0B,$33M,2020
+2021,Download Album,Download Album,Units,31.083015715,,2021,2021,9.1%,,$31.1M,,$342.0M,$342.0B,$31M,2021
+2022,Download Album,Download Album,Units,24.462240795,,2022,2022,8.7%,,$24.5M,,$282.1M,$282.1B,$24M,2022
+2023,Download Album,Download Album,Units,20.483589469,,2023,2023,8.1%,,$20.5M,,$252.4M,$252.4B,$20M,2023
+2024,Download Album,Download Album,Units,16.849168872,,2024,2024,7.7%,,$16.8M,,$219.9M,$219.9B,$17M,2024
+2005,Kiosk,Kiosk,Units,0.7,,2005,2005,0.1%,,$0.7M,1.3B,,$1301.9B,$1M,2005
+2006,Kiosk,Kiosk,Units,1.4,,2006,2006,0.1%,,$1.4M,1.6B,,$1588.4B,$1M,2006
+2007,Kiosk,Kiosk,Units,1.8,,2007,2007,0.1%,,$1.8M,1.9B,,$1851.5B,$2M,2007
+2008,Kiosk,Kiosk,Units,1.6,,2008,2008,0.1%,,$1.6M,1.9B,,$1919.6B,$2M,2008
+2009,Kiosk,Kiosk,Units,1.7,,2009,2009,0.1%,,$1.7M,1.8B,,$1828.5B,$2M,2009
+2010,Kiosk,Kiosk,Units,1.7,,2010,2010,0.1%,,$1.7M,1.7B,,$1739.5B,$2M,2010
+2011,Kiosk,Kiosk,Units,1.3,,2011,2011,0.1%,,$1.3M,1.8B,,$1825.0B,$1M,2011
+2012,Kiosk,Kiosk,Units,1.95507,,2012,2012,0.1%,,$2.0M,1.8B,,$1803.3B,$2M,2012
+2013,Kiosk,Kiosk,Units,3.7442,,2013,2013,0.2%,,$3.7M,1.7B,,$1691.2B,$4M,2013
+2014,Kiosk,Kiosk,Units,1.592073358,,2014,2014,0.1%,,$1.6M,1.5B,,$1458.2B,$2M,2014
+2015,Kiosk,Kiosk,Units,2.202659889,,2015,2015,0.2%,,$2.2M,1.3B,,$1255.5B,$2M,2015
+2016,Kiosk,Kiosk,Units,1.748781210,,2016,2016,0.2%,,$1.7M,,$970.1M,$970.1B,$2M,2016
+2017,Kiosk,Kiosk,Units,1.322377717,,2017,2017,0.2%,,$1.3M,,$730.9M,$730.9B,$1M,2017
+2018,Kiosk,Kiosk,Units,1.097856529,,2018,2018,0.2%,,$1.1M,,$531.2M,$531.2B,$1M,2018
+2019,Kiosk,Kiosk,Units,0.899703865,,2019,2019,0.2%,,$0.9M,,$442.4M,$442.4B,$1M,2019
+2020,Kiosk,Kiosk,Units,0.697165090,,2020,2020,0.2%,,$0.7M,,$356.0M,$356.0B,$1M,2020
+2021,Kiosk,Kiosk,Units,0.500878,,2021,2021,0.1%,,$0.5M,,$342.0M,$342.0B,$1M,2021
+2022,Kiosk,Kiosk,Units,0.299159,,2022,2022,0.1%,,$0.3M,,$282.1M,$282.1B,$0M,2022
+2005,Download Music Video,Download Music Video,Units,1.9,,2005,2005,0.1%,,$1.9M,1.3B,,$1301.9B,$2M,2005
+2006,Download Music Video,Download Music Video,Units,9.9,,2006,2006,0.6%,,$9.9M,1.6B,,$1588.4B,$10M,2006
+2007,Download Music Video,Download Music Video,Units,14.2,,2007,2007,0.8%,,$14.2M,1.9B,,$1851.5B,$14M,2007
+2008,Download Music Video,Download Music Video,Units,20.8,,2008,2008,1.1%,,$20.8M,1.9B,,$1919.6B,$21M,2008
+2009,Download Music Video,Download Music Video,Units,20.5,,2009,2009,1.1%,,$20.5M,1.8B,,$1828.5B,$21M,2009
+2010,Download Music Video,Download Music Video,Units,18.4,,2010,2010,1.1%,,$18.4M,1.7B,,$1739.5B,$18M,2010
+2011,Download Music Video,Download Music Video,Units,16.3,,2011,2011,0.9%,,$16.3M,1.8B,,$1825.0B,$16M,2011
+2012,Download Music Video,Download Music Video,Units,10.473489,,2012,2012,0.6%,,$10.5M,1.8B,,$1803.3B,$10M,2012
+2013,Download Music Video,Download Music Video,Units,8.412464,,2013,2013,0.5%,,$8.4M,1.7B,,$1691.2B,$8M,2013
+2014,Download Music Video,Download Music Video,Units,6.822643920,,2014,2014,0.5%,,$6.8M,1.5B,,$1458.2B,$7M,2014
+2015,Download Music Video,Download Music Video,Units,3.223325002,,2015,2015,0.3%,,$3.2M,1.3B,,$1255.5B,$3M,2015
+2016,Download Music Video,Download Music Video,Units,2.145427196,,2016,2016,0.2%,,$2.1M,,$970.1M,$970.1B,$2M,2016
+2017,Download Music Video,Download Music Video,Units,1.399889693,,2017,2017,0.2%,,$1.4M,,$730.9M,$730.9B,$1M,2017
+2018,Download Music Video,Download Music Video,Units,1.115985226,,2018,2018,0.2%,,$1.1M,,$531.2M,$531.2B,$1M,2018
+2019,Download Music Video,Download Music Video,Units,0.932171830,,2019,2019,0.2%,,$0.9M,,$442.4M,$442.4B,$1M,2019
+2020,Download Music Video,Download Music Video,Units,0.901620837,,2020,2020,0.3%,,$0.9M,,$356.0M,$356.0B,$1M,2020
+2021,Download Music Video,Download Music Video,Units,0.960817,,2021,2021,0.3%,,$1.0M,,$342.0M,$342.0B,$1M,2021
+2022,Download Music Video,Download Music Video,Units,0.674835,,2022,2022,0.2%,,$0.7M,,$282.1M,$282.1B,$1M,2022
+2005,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,170,,2005,2005,13.1%,,$170.0M,1.3B,,$1301.9B,$170M,2005
+2006,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,315,,2006,2006,19.8%,,$315.0M,1.6B,,$1588.4B,$315M,2006
+2007,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,433.8,,2007,2007,23.4%,,$433.8M,1.9B,,$1851.5B,$434M,2007
+2008,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,405.1,,2008,2008,21.1%,,$405.1M,1.9B,,$1919.6B,$405M,2008
+2009,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,294.3,,2009,2009,16.1%,,$294.3M,1.8B,,$1828.5B,$294M,2009
+2010,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,188.5,,2010,2010,10.8%,,$188.5M,1.7B,,$1739.5B,$189M,2010
+2011,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,115.4,,2011,2011,6.3%,,$115.4M,1.8B,,$1825.0B,$115M,2011
+2012,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,58.757403556,,2012,2012,3.3%,,$58.8M,1.8B,,$1803.3B,$59M,2012
+2013,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,39.366235778,,2013,2013,2.3%,,$39.4M,1.7B,,$1691.2B,$39M,2013
+2014,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,26.632323683,,2014,2014,1.8%,,$26.6M,1.5B,,$1458.2B,$27M,2014
+2015,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,21.924866054,,2015,2015,1.7%,,$21.9M,1.3B,,$1255.5B,$22M,2015
+2016,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,22.620785392,,2016,2016,2.3%,,$22.6M,,$970.1M,$970.1B,$23M,2016
+2017,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,14.262869941,,2017,2017,2.0%,,$14.3M,,$730.9M,$730.9B,$14M,2017
+2018,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,10.026286725,,2018,2018,1.9%,,$10.0M,,$531.2M,$531.2B,$10M,2018
+2019,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,8.290340489,,2019,2019,1.9%,,$8.3M,,$442.4M,$442.4B,$8M,2019
+2020,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,8.128392297,,2020,2020,2.3%,,$8.1M,,$356.0M,$356.0B,$8M,2020
+2021,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,6.2908,,2021,2021,1.8%,,$6.3M,,$342.0M,$342.0B,$6M,2021
+2022,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,4.424218889,,2022,2022,1.6%,,$4.4M,,$282.1M,$282.1B,$4M,2022
+2023,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,4.081172406,,2023,2023,1.6%,,$4.1M,,$252.4M,$252.4B,$4M,2023
+2024,Ringtones & Ringbacks,Ringtones & Ringbacks,Units,2.229827378,,2024,2024,1.0%,,$2.2M,,$219.9M,$219.9B,$2M,2024
